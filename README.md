@@ -1,6 +1,9 @@
 # Mask-RCNN-TF2.0
 Implementasi Mask RCNN di Tensorflow 2.0 (Deep Learning A)
 
+Download isi folder logs: https://drive.google.com/drive/folders/1GGhOIMVOS4wjn97CHIm5V9uKB3QzoXND?usp=sharing
+Download mask_rcnn_coco.h5: https://github.com/matterport/Mask_RCNN/releases/download/v1.0/mask_rcnn_coco.h5
+
 ### Anggota Kelompok:
 | Nama | NRP |
 | --- | --- |
